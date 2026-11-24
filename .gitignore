@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+sales_data_backup.db
+*.db
